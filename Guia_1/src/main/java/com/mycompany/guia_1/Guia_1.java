@@ -20,10 +20,12 @@ public class Guia_1 {
         cirilo.setNombre("Juan");
         cirilo.setNacionalidad("Argentina");
         cirilo.setPuntaje(140);
-        System.out.println(cirilo.getEdad());*/
+        System.out.println(cirilo.getEdad());
         
         Perro mocoloco = new Perro("Moqui","Cachuzo",32.2,7);
-        mocoloco.mostrarInfo();
+        mocoloco.mostrarInfo();*/
+        
+        System.out.println("GIT");
         
     }
 }
